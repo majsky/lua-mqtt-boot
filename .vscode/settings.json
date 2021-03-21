@@ -1,0 +1,6 @@
+{
+    "Lua.completion.callSnippet": "Both",
+    "Lua.hint.enable": true,
+    "Lua.hint.setType": true,
+    "Lua.runtime.version": "Lua 5.3"
+}
